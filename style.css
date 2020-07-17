@@ -67,10 +67,12 @@ a {
 }
 
 .icons img {
+    width: 50px;
     display: block;
     margin-left: auto;
 }
 
 .bottom {
     font-size: 0.8em;
+    margin-bottom: 50px;
 }
