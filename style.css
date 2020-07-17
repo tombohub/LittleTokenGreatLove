@@ -20,6 +20,7 @@ h1 {
     margin-top: 10px;
     font-family: "Chatillon";
     color: var(--blue);
+    letter-spacing: 0.1em;
 }
 
 p {
