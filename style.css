@@ -57,7 +57,7 @@ a {
 }
 
 .joseph {
-    width: 50%;
+    width: 40%;
 }
 
 .icons {
@@ -70,6 +70,7 @@ a {
     width: 50px;
     display: block;
     margin-left: auto;
+    margin-top: 10px;
 }
 
 .bottom {
