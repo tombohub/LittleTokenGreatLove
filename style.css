@@ -1,0 +1,76 @@
+:root {
+    --blue: #102d4f;
+}
+
+@font-face {
+    font-family: "Chatillon";
+    src: url('assets/Chatillon-Regular.woff');
+}
+
+body {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    letter-spacing: 0.05em;
+    background-image: url('assets/background.jpg');
+    background-size: cover;
+}
+
+h1 {
+    margin-top: 10px;
+    font-family: "Chatillon";
+    color: var(--blue);
+}
+
+p {
+    font-family: "Open Sans";
+    font-weight: 400;
+}
+
+strong {
+    font-family: "Open sans";
+    font-weight: 600;
+    color: var(--blue);
+}
+
+button {
+    background-color: var(--blue);
+    border: none;
+    font-family: "open sans";
+    color: aliceblue;
+    border-radius: 10px;
+    padding: 20px 40px;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+a {
+    color: var(--blue);
+    text-decoration: none;
+}
+
+.emblem {
+    margin-top: 40px;
+    width: 40%;
+}
+
+.joseph {
+    width: 50%;
+}
+
+.icons {
+    position: fixed;
+    bottom: 20px;
+    right: 10px;
+}
+
+.icons img {
+    display: block;
+    margin-left: auto;
+}
+
+.bottom {
+    font-size: 0.8em;
+}
