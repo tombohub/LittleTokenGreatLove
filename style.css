@@ -54,8 +54,8 @@ a {
 }
 
 .emblem {
-    margin-top: 40px;
-    width: 200px;
+    margin-top: 20px;
+    width: 180px;
 }
 
 .joseph {
@@ -84,7 +84,7 @@ a {
     display: none;
 }
 
-@media screen and (max-width: 500px) {
+@media (max-width: 500px) {
     .mobile-hide {
         display: none;
     }
