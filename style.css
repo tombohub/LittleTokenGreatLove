@@ -55,11 +55,11 @@ a {
 
 .emblem {
     margin-top: 40px;
-    width: 30%;
+    width: 200px;
 }
 
 .joseph {
-    width: 40%;
+    width: 200px;
 }
 
 .icons {
@@ -78,4 +78,10 @@ a {
 .bottom {
     font-size: 0.8em;
     margin-bottom: 50px;
+}
+
+@media (max-width: 500px) {
+    .emblem {
+        width: ;
+    }
 }
