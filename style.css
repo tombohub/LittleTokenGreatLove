@@ -80,8 +80,16 @@ a {
     margin-bottom: 50px;
 }
 
-@media (max-width: 500px) {
-    .emblem {
-        width: ;
+.dot {
+    display: none;
+}
+
+@media screen and (max-width: 500px) {
+    .mobile-hide {
+        display: none;
+    }
+
+    .dot {
+        display: inline;
     }
 }
