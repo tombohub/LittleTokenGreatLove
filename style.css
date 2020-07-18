@@ -27,7 +27,7 @@ p {
     font-weight: 400;
 }
 
-strong {
+strong.intro {
     font-family: "Open sans";
     font-weight: 600;
     color: var(--blue);
